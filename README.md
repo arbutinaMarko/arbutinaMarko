@@ -45,7 +45,7 @@ Welcome to my GitHub profile! I’m passionate about building scalable solutions
 
 ## 📫 Connect with Me
 
-- [LinkedIn](YOUR_LINKEDIN_URL) <!-- Replace with your LinkedIn link or leave as is to update later -->
+- [LinkedIn]((https://www.linkedin.com/in/marko-arbutina-211b01240/)) <!-- Replace with your LinkedIn link or leave as is to update later -->
 
 ---
 
