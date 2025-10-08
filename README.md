@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Marko Arbutina!
+# Hi, I'm Marko Arbutina!
 
 **Software Developer | Power Platform Enthusiast | .NET Specialist**
 
@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I’m passionate about building scalable solutions
 
 ---
 
-## 🚀 Tech Stack
+## Tech Stack
 
 - **Languages & Frameworks:** C#, .NET, JavaScript, TypeScript, React, HTML, CSS
 - **Microsoft Ecosystem:** Power Platform, Dynamics 365, Power Apps Component Framework (PCF)
@@ -14,7 +14,7 @@ Welcome to my GitHub profile! I’m passionate about building scalable solutions
 
 ---
 
-## 🛠️ Featured Projects
+## Featured Projects
 
 - [**PCF Controls**](https://github.com/arbutinaMarko/pcf-storybook)  
   A collection of custom Power Apps Component Framework controls—enhancing the Power Platform UI experience.
@@ -30,20 +30,20 @@ Welcome to my GitHub profile! I’m passionate about building scalable solutions
 
 ---
 
-## 🎓 Certification
+## Certification
 
 - **PL-900: Microsoft Power Platform Fundamentals**
 
 ---
 
-## 🌱 Currently Working On
+## Currently Working On
 
 - Building new PCF controls for enhanced Power Apps functionality  
 - Exploring best practices in solution architecture for enterprise platforms
 
 ---
 
-## 📫 Connect with Me
+## Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/marko-arbutina-211b01240/) <!-- Replace with your LinkedIn link or leave as is to update later -->
 
