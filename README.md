@@ -16,14 +16,8 @@ Welcome to my GitHub profile! I’m passionate about building scalable solutions
 
 ## Featured Projects
 
-- [**PCF Controls**](https://github.com/arbutinaMarko/pcf-storybook)  
+- [**pcf-grouped-list-multilevel**](https://github.com/arbutinaMarko/pcf-grouped-list-multilevel)  
   A collection of custom Power Apps Component Framework controls—enhancing the Power Platform UI experience.
-
-- [**GroupByForKPIs**](https://github.com/arbutinaMarko/GroupByForKPIs)  
-  Advanced KPI grouping logic for business analytics and reporting.
-
-- [**FPL Dashboard**](https://github.com/arbutinaMarko/fpl-dashboard)  
-  Interactive dashboard for managing and visualizing Football Premier League data.
 
 - [**Plugin Logger With Delete Prevention**](https://github.com/arbutinaMarko/Plugin_LoggerWithDeletePrevention)  
   Robust plugin logging solution for Dynamics 365, with built-in data protection.
